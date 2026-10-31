@@ -5,8 +5,7 @@ This module has a base class (Player) as well as a subclass (AIPlayer). You will
 to implement both to play against the computer. But it is sufficient to implement the
 first to have two humans play against each other.
 
-# Zahra Waqqas 291234050
-# DATE COMPLETED HERE
+# Author: Zahra Waqqas
 """
 import introcs
 import random
