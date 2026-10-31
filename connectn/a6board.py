@@ -10,8 +10,7 @@ a requirement of N in a line to win.  Traditionally, all of these values are fix
 
 Our version of the game allows variations on some or all of these parameters.
 
-# Zahra Waqqas 291234050
-# DATE COMPLETED HERE
+# Author: Zahra Waqqas
 """
 import introcs
 from a6consts import *
