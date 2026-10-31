@@ -4,8 +4,7 @@ The controller class to run the game
 This module provides tha class that handles the basic game loop. Once this class is
 completed, you can start to play with the connectn program.
 
-# Zahra Waqqas 291234050
-# DATE COMPLETED HERE
+# Author: Zahra Waqqas
 """
 import a6board
 import a6player
